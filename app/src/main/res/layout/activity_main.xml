@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="com.yko.loading.MainActivity">
-
     <com.yko.loading.Loading
         android:layout_width="150dp"
         android:layout_height="150dp"/>
