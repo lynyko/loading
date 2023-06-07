@@ -1,0 +1,12 @@
+[
+  {
+    "path": "SecondActivity",
+    "className": "com.augurit.agmobile.macaopipe.SecondRouteActivity",
+    "enable": false
+  },
+  {
+    "path": "SampleFragment",
+    "className": "com.augurit.agmobile.macaopipe.SampleFragment",
+    "enable": true
+  }
+]
